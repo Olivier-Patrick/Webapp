@@ -1,0 +1,31 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.bg-auth{
+    background-image: radial-gradient(ellipse at center, #ff6c41, #c42a0a);
+
+    
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}  
+/* 
+.form-aut{
+    @apply w-full py-3 px-6 rounded-full outline-nome;
+    
+    &:focus{
+        @apply bg-grey-lghtest;
+    }
+     
+} */
