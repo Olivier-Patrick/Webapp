@@ -1,5 +1,5 @@
 @extends('template_frontend.home')
-
+@section('content')
 <br>
 <br>
 <br>
@@ -88,6 +88,6 @@
    </div>
 
  </form>
-
+@endsection
 
 
