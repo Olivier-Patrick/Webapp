@@ -14,7 +14,7 @@ class AddFieldUserPost extends Migration
     public function up()
     {
         Schema::table('posts', function (Blueprint $table){
-            $table->integer('users_id');
+            $table->bigInteger('user_id')->unsigned();
         });
     }
 

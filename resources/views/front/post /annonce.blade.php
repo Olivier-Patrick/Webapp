@@ -1,7 +1,3 @@
-@extends('template_backend.home')
-@section('sub-judul','Ajouter une annonce')
-@section('content')
-
 @if(count($errors)>0)
  @foreach($errors->all() as $error)
  <div class="alert alert-danger" role="alert">
@@ -19,7 +15,7 @@
 @if (count($errors) > 0)
   <ul><li>{{ $error }}</li></ul>
 @endif
-<form method="POST" action="{{route('post.store')}}" enctype="multipart/form-data">
+<form method="POST" action="{{route('post.create_post')}}" enctype="multipart/form-data">
     @csrf
     <div class="form-group">
        <label>Catégories</label>
@@ -86,7 +82,3 @@
    </div>
 
 </form>
-
-
-@endsection
-

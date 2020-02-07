@@ -35,6 +35,16 @@ class PostController extends Controller
         return view('admin.post.create', compact('category', 'tags'));
     }
 
+    public function create_post()
+    {
+        $tags = Tags::all();
+        $category = Category::all();
+        return view('front.post.annonce', compact('category', 'tags'));
+
+    }
+
+
+
     /**
      * Store a newly created resource in storage.
      *
@@ -43,47 +53,45 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
-        $this->validate($request,[
-            'Titre' => 'required',
-            'category_id' => 'required',
-            'Price' => 'required',
-            'Description' => 'required',
-            'Etat' => 'required',
-            'filename' => 'required',
-            'Adresse' => 'required',
-            'Phone' => 'required',
-            'Ville' => 'required',   
-        ]);
-
-        foreach ($request->file('filename') as $filename){
-            $name=$filename->getClientOriginalName();
-
-            $data = new Upload;
-            $data->filename = $name;
-            $data ->post_id = $pos->id;
-            $data->save();
-
-
-        } 
+        
+         $this->validate($request,[
+           'Titre' => 'required',
+           'category_id' => 'required',
+           'Price' => 'required',
+           'Description' => 'required',
+           'Etat' => 'required',
+           'filename' => 'required',
+           'Adresse' => 'required',
+           'Phone' => 'required',
+           'Ville' => 'required',   
+         ]);
 
         
-        $post = Post::create([
-            'Titre' => $request->Titre,
-            'category_id' => $request->category_id,
-            'Price' => $request->Price,
-            'Description' => $request->Description,
-            'Etat' => $request->Etat,
-            'Adresse' => $request->Adresse,
-            'Phone' => $request->Phone,
-            'Ville' => $request->Ville,
-            'slug' => Str::slug($request->Titre),
-            'users_id' => Auth::id(), 
-        ]);
+        
+        
+        
+        foreach ($request->file('filename') as $filename){
 
-            $pos = Post::create($request->all());
 
+           $name=$filename->getClientOriginalName();
+        
+           $filename->move(public_path().'/images/', $name);
             
+            $post = Auth::user()->posts()->create($request->all());
+    
+            $data = new Upload;
+            $data->filename = $name;
+            $data ->post_id = $post->id;
+            $data->save();
+         }  
+         
+         
+
+        
+        
         $post->tags()->attach($request->tags);
+
+        
         return redirect()->back()->with('success', 'Votre annonnce a été ajoutée avec success.Merci');
     }
 

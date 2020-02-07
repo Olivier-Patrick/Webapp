@@ -24,7 +24,7 @@
             <div>
                <div class="text-lg flex "> 
                    <div>
-                      <a href="{{route('post.index')}}" class="bg-red-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-full mr-3">
+                      <a href="{{route('post.create_post')}}" class="bg-red-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-full mr-3">
                          Publier une annone
                       </a>
                     </div>

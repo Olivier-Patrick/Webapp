@@ -47,66 +47,48 @@ class UploadController extends Controller
     public function store(Request $request)
     {
        
-         $this->validate($request,[
-           'Titre' => 'required',
-           'category_id' => 'required',
-           'Price' => 'required',
-           'Description' => 'required',
-           'Etat' => 'required',
-           'filename' => 'required',
-           'Adresse' => 'required',
-           'Phone' => 'required',
-           'Ville' => 'required',   
-         ]);
-
-        
-        
-        
-        
-        foreach ($request->file('filename') as $filename){
-
-
-           $name=$filename->getClientOriginalName();
-        
-           $filename->move(public_path().'/images/', $name);
-
-           
-            
-            $post = Post::create([
-        
-                'Titre' => $request->Titre,
-                'category_id' => $request->category_id,
-                'Price' => $request->Price,
-                'Description' => $request->Description,
-                'Etat' => $request->Etat,
-                'filename' => 'public/uploads/post'.$name,
-                'Adresse' => $request->Adresse,
-                'Phone' => $request->Phone,
-                'Ville' => $request->Ville,
-                'slug' => Str::slug($request->Titre), 
-                'users_id'=> Auth::id(),
-                
-            ]);
-
-            $pos = Post::create($request->all());
-
-            
+         
+        $this->validate($request,[
+            'Titre' => 'required',
+            'category_id' => 'required',
+            'Price' => 'required',
+            'Description' => 'required',
+            'Etat' => 'required',
+            'filename' => 'required',
+            'Adresse' => 'required',
+            'Phone' => 'required',
+            'Ville' => 'required',   
+          ]);
+ 
+         
+         
+         
+         
+         foreach ($request->file('filename') as $filename){
+ 
+ 
+            $name=$filename->getClientOriginalName();
+         
             $filename->move(public_path().'/images/', $name);
-    
-            $data = new Upload;
-            $data->filename = $name;
-            $data ->post_id = $pos->id;
-            $data->save();
-         }  
+ 
+            
+             
+             $post = Auth::user()->posts()->create($request->all());
+     
+             $data = new Upload;
+             $data->filename = $name;
+             $data ->post_id = $post->id;
+             $data->save();
+          }  
+          
+          
+ 
          
          
-
-        
-        
-        $post->tags()->attach($request->tags);
-
-        
-        return redirect()->back()->with('success', 'Votre annonnce a été ajoutée avec success.Merci');
+         $post->tags()->attach($request->tags);
+ 
+         
+         return redirect()->back()->with('success', 'Votre annonnce a été ajoutée avec success.Merci');
        
         
     }
