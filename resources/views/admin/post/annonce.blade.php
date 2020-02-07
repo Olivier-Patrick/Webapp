@@ -1,5 +1,4 @@
 @extends('template_frontend.home')
-
 @section('content')
 
 
