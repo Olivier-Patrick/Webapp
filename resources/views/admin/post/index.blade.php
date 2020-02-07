@@ -36,7 +36,7 @@
                     </ul>
                     @endforeach
                 </td>
-                <td>{{$hasil->users->name}}</td>
+                <td>{{$hasil->user->name}}</td>
                 <td>{{$hasil->active}}</td>
                 <td><a href="#" class="btn btn-dark" ><i class="fas fa-eye "></i> <span></span></a></td>
                 <td>
