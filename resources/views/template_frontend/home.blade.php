@@ -1,5 +1,5 @@
 
-@include('template_frontend.head')
+@include('template_frontend.phead')
 
 <div class=" container"> 
 

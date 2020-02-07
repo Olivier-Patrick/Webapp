@@ -1,8 +1,8 @@
-@extends('template_frontend.pheader')
+@extends('template_frontend.home')
 
 @section('content')
 
-<div class="container">
+
 
 <br>
 <br>
@@ -92,8 +92,7 @@
    </div>
 
  </form>
-</div>
+
 @endsection
 
-@include('template_frontend.footer')
 
