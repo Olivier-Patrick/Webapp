@@ -94,3 +94,6 @@
  </form>
 </div>
 @endsection
+
+@include('template_frontend.footer')
+
