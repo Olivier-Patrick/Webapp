@@ -1,21 +1,31 @@
-@if(count($errors)>0)
- @foreach($errors->all() as $error)
- <div class="alert alert-danger" role="alert">
-      {{ $error}}
- </div>
- @endforeach
-@endif
+@extends('template_frontend.pheader')
 
-@if(Session::has('success'))
+@section('content')
+
+<div class="container">
+
+<br>
+<br>
+<br>
+
+ @if(count($errors)>0)
+  @foreach($errors->all() as $error)
+  <div class="alert alert-danger" role="alert">
+      {{ $error}}
+  </div>
+  @endforeach
+ @endif
+
+ @if(Session::has('success'))
    <div class="alert alert-success" role="alert">
      {{Session('success')}}
    </div>
-@endif
+ @endif
 
-@if (count($errors) > 0)
+ @if (count($errors) > 0)
   <ul><li>{{ $error }}</li></ul>
-@endif
-<form method="POST" action="{{route('post.create_post')}}" enctype="multipart/form-data">
+ @endif
+ <form method="POST" action="{{route('post.create_post')}}" enctype="multipart/form-data">
     @csrf
     <div class="form-group">
        <label>Catégories</label>
@@ -30,7 +40,7 @@
         <label>Choisissez votre tags</label>
         <select class="form-control select2" multiple="" name=tags[]>
             @foreach($tags as $tag )
-            <option value="{{$tag->id}}">{{$tag->name}}</option>
+              <option value="{{$tag->id}}">{{$tag->name}}</option>
             @endforeach
         </select>
    </div>
@@ -81,4 +91,6 @@
     <button class="btn btn-primary btn-block">Enregistrer</button>
    </div>
 
-</form>
+ </form>
+</div>
+@endsection

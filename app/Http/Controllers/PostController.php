@@ -39,7 +39,7 @@ class PostController extends Controller
     {
         $tags = Tags::all();
         $category = Category::all();
-        return view('front.post.annonce', compact('category', 'tags'));
+        return view('admin.post.annonce', compact('category', 'tags'));
 
     }
 
