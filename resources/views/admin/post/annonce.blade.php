@@ -21,7 +21,7 @@
  @if (count($errors) > 0)
   <ul><li>{{ $error }}</li></ul>
  @endif
- <form method="POST" action="{{route('post.create_post')}}" enctype="multipart/form-data">
+ <form method="POST" action="{{route('post.store')}}" enctype="multipart/form-data">
     @csrf
     <div class="form-group">
        <label>Catégories</label>
