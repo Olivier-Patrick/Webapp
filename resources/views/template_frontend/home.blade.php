@@ -12,11 +12,11 @@
 
     @include('template_frontend.pheader')
 
-   <div class=" container"> 
+       <div class=" container"> 
 
           @yield('content')
 
-   </div>
+       </div>
 
    @include('template_frontend.footer')
      

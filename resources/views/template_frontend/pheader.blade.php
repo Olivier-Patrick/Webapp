@@ -13,7 +13,5 @@
          <span style="font-size: 40px"> Publier une annonce</span>
        </div>
      </head>
-       <div>
-       @yield('content')
-       </div>
+      
       
