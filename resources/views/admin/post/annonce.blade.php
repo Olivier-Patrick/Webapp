@@ -69,17 +69,7 @@
    <div class="form-group">
         <input type="file" name="filename[]" multiple class="form-control">
    </div>
-   <div class="container mt-5">
-     <div class="row">
-        @foreach($images as $image)
-        <div class="col-md-1 card p-1">
-            <img src="{{url('images/'.$image->image)}}" alt="{{$image->image}}" height="50%" width="50%">
-        </div>
-       @endforeach
-     </div>
-   </div>
-
-
+  
    <div class="form-group">
        <label>Adresse</label>
        <input type="text" class="form-control" name="Adresse">
