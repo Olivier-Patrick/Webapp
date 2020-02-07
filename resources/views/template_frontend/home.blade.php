@@ -6,6 +6,7 @@
         <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
         <link rel="stylesheet" href="/css/app.css">
         <link rel="stylesheet" href="{{ secure_asset('css/app.css')}}">
+        <link rel="stylesheet" href="{{asset('assets/modules/select2/dist/css/select2.min.css')}}">
         
     </head>
 

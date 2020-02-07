@@ -6,5 +6,7 @@
             </ul>
          </div>
        </footer>
+
+       <script src="{{asset('assets/modules/select2/dist/js/select2.full.min.js') }}"></script>
     </body>
 </html>
