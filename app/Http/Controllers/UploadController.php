@@ -20,8 +20,8 @@ class UploadController extends Controller
      */
     public function index()
     {
-        $post = Post::paginate(10);
-        return view('admin.post.index', compact('post'));
+        $images = Upload::all();
+        return view('admin.post.index', compact('images'));
     }
 
     /**
