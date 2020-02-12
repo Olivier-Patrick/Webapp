@@ -62,7 +62,7 @@
   </div>
 
   <div class="post post-row">
-	<a class="post-img" href="blog-post.html"><img src="./img/post-13.jpg" alt=""></a>
+	<a class="post-img" href="blog-post.html"><img src="{{ asset('./img/post-13.jpg') }}" alt=""></a>
 	<div class="post-body">
 		<div class="post-category">
 			<a href="category.html">Travel</a>
@@ -137,7 +137,7 @@
       <br>  
       <br>
   </div>
-  
+
 </div>
 
 @endsection
