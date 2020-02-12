@@ -23,7 +23,7 @@ class CategoryController extends Controller
     public function index1() 
     {
         $category = Category::paginate(10);
-        return view('front.categorie.communaute', compact('category'));
+        return view('admin.category.communaute', compact('category'));
     }
 
     /**
