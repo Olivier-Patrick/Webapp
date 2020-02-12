@@ -68,7 +68,7 @@
    @include('template_category.header')
 
      <div class="container">
-      @yield('content')  
+       @yield('content')  
      </div>
 
    @include('template_category.footer')
