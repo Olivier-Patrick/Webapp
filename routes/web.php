@@ -13,6 +13,7 @@
 Auth::routes();
 
 Route::get('/', 'WebappController@index');
+Route::get('/communauté','CategoryController@index1')->name('category.index1');
 
 
 Route::group(['middleware' => 'auth'], function(){
@@ -22,7 +23,6 @@ Route::group(['middleware' => 'auth'], function(){
 
     Route::get('/post/supp','PostController@semble_supprime')->name('post.semble_supprime');
     Route::get('/annonce','PostController@create_post')->name('post.create_post');
-    Route::get('/communauté','CategoryController@index1')->name('category.index1');
     Route::get('/post/restore/{id}','PostController@restore')->name('post.restore');
     Route::delete('/post/kill/{id}','PostController@kill')->name('post.kill');
     Route::resource('/post','PostController');
