@@ -49,7 +49,7 @@
                 <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Cours</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Communauté</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index1')}}" name="">Communauté</a>
             </li>
             <li class="mr-1">
                 <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Évènemment</a>
