@@ -349,7 +349,7 @@ p {
     text-decoration: none;
     font-size: 14px;
     line-height: 26px;
-    -webkit-transition: all .4s;
+    
 }
 .place::after {
     position: absolute;
@@ -360,7 +360,7 @@ p {
     border-left: 10px solid #EFF1F5;
     background: #fff;
     content: '';
-    -webkit-transition: all .4s;
+   
 }
 #footer .footerbottom {
     margin-top: 50px;
