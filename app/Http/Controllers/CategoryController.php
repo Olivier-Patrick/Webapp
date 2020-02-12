@@ -20,6 +20,12 @@ class CategoryController extends Controller
         return view('admin.category.index', compact('category'));
     }
 
+    public function index1() 
+    {
+        $category = Category::paginate(10);
+        return view('front.categorie.communaute', compact('category'));
+    }
+
     /**
      * Show the form for creating a new resource.
      *
