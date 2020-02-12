@@ -1,4 +1,7 @@
-<nav id="menuprincipal" class="navbar navbar-default navbar-fixed-top">
+
+
+<body>
+ <nav id="menuprincipal" class="navbar navbar-default navbar-fixed-top">
     <div class="flex items-center justify-center flex-wrap bg-gray-200 p-4">          
         <div class="navbar-header">           
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
@@ -39,9 +42,9 @@
             </ul>
         </div>
     </div>
-</nav> 
+ </nav> 
 
-<div class="bg-cover bg-center " style="background-image: url(http://www.mobot.org/MOBOT/research/vegmad/images/637_028l.gif)" class="header">
+ <div class="bg-cover bg-center " style="background-image: url(http://www.mobot.org/MOBOT/research/vegmad/images/637_028l.gif)" class="header">
     <br>
     <nav class="shadow-md rounded px-8 pt-6 pb-8 mb-4 p-15 items-center"  >
         <form class="flex justify-center">
@@ -52,4 +55,4 @@
         </form>
         <br>
     </nav>
-</div>
+ </div>

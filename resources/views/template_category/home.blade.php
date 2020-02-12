@@ -37,7 +37,7 @@
     <script src = "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"> </script>
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.4.0/dropzone.js"> </script>
 </head>
-<body>
+
    @include('template_category.header')
     <br>
     <br>
