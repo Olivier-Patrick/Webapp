@@ -44,7 +44,7 @@
     <br>
     <br>
     <br>
-    <div id="contenu">
+    <div class="container">
       @yield('content')  
     </div>
    @include('template_category.footer')

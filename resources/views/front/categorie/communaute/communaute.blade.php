@@ -1,4 +1,5 @@
 @extends('template_category.home')
+
 @section('content') 
 <div class="container">
   <div class="breadcrumb__container flex justify ml-4">
