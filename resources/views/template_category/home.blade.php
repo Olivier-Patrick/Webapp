@@ -38,7 +38,7 @@
     <script src = "https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.4.0/dropzone.js"> </script>
 </head>
 <body>
-   @include('template/header')
+   @include('template_category.header')
     <br>
     <br>
     <br>
@@ -47,4 +47,4 @@
     <div id="contenu">
       @yield('content')  
     </div>
-    @include('template/footer')
+   @include('template_category.footer')
