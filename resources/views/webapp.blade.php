@@ -41,11 +41,32 @@
           <br>
           
           <ul class="flex justify-center">
-            @foreach($data as $category_recent)
+            
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">{{$category_recent->name}}</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Achat & Vente</a>
             </li>
-            @endforeach
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Cours</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Communauté</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Évènemment</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Services</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Emploi</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Immobilier</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Véhicules</a>
+            </li>
+            
           </ul>
          
        </nav>
