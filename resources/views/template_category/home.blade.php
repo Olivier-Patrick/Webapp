@@ -3,7 +3,7 @@
 <html lang="fr-CA">
 
 <head>
-    <title>Page user</title>
+    <title>Jumila</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Trouvez le meilleur produit répondre à votre besoin de ..." />
@@ -39,12 +39,9 @@
 </head>
 
    @include('template_category.header')
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <div class="container">
+
+     <div class="container">
       @yield('content')  
-    </div>
+     </div>
+
    @include('template_category.footer')
