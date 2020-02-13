@@ -43,7 +43,7 @@
           <ul class="flex justify-center">
             
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index3')}}" name="">Achat & Vente</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index3')}}" name="">Achat-Vente</a>
             </li>
             <li class="mr-1">
                 <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index2')}}" name="">Cours</a>
