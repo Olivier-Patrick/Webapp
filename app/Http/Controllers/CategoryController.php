@@ -25,6 +25,62 @@ class CategoryController extends Controller
         $category = Category::paginate(10);
         return view('admin.category.communaute', compact('category'));
     }
+    
+    public function index2() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.cours', compact('category'));
+    }
+
+    public function index3() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.achatvente', compact('category'));
+    }
+
+    public function index4() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.rencontre', compact('category'));
+    }
+    
+    public function index5() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.services', compact('category'));
+    }
+
+    public function index6() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.immobilier', compact('category'));
+    }
+
+    public function index7() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.emploi', compact('category'));
+    }
+
+    public function index8() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.vehicules', compact('category'));
+    }
+
+    public function index9() 
+    {
+        $category = Category::paginate(10);
+        return view('admin.category.evenement', compact('category'));
+    }
+
+
+
+
+
+
+    
+
 
     /**
      * Show the form for creating a new resource.

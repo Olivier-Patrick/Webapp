@@ -43,28 +43,31 @@
           <ul class="flex justify-center">
             
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Achat & Vente</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index3')}}" name="">Achat & Vente</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Cours</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index2')}}" name="">Cours</a>
             </li>
             <li class="mr-1">
                 <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index1')}}" name="">Communauté</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Évènemment</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index4')}}" name="">Rencontres</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Services</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index5'}}" name="">Services</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Emploi</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index7')}}" name="">Emploi</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Immobilier</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index6')}}" name="">Immobilier</a>
             </li>
             <li class="mr-1">
-                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="#" name="">Véhicules</a>
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index8')}}" name="">Véhicules</a>
+            </li>
+            <li class="mr-1">
+                <a class=" inline-block border border-blue-500 rounded py-8 px-10 bg-gray-600 hover:bg-red-500 text-white" href="{{route('category.index9')}}" name="">Évènement</a>
             </li>
             
           </ul>
