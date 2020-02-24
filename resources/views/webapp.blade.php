@@ -289,9 +289,9 @@
     							</div>
     						</div>
 							<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center" >
     								<h3><a href="#">Health &amp; Hospital</a></h3>
-    								<span class="icon flaticon-stethoscope"></span>
+    								<span class="icon flaticon-stethoscope" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
