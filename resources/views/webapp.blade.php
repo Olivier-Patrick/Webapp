@@ -239,56 +239,56 @@
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2" style="max-width : 70px; heigth : 20px ">
-    							<div class="top-category text-center">
+    						<div class="col-md-1">
+    							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Graphic &amp; UI/UX Design</a></h3>
     								<span class="icon flaticon-idea"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-0.5">
+    						<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Accounting &amp; Finance</a></h3>
     								<span class="icon flaticon-accounting"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2">
+    						<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Restaurant &amp; Food</a></h3>
     								<span class="icon flaticon-dish"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2">
+    						<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-							<div class="col-md-2">
+							<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-							<div class="col-md-2">
+							<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-							<div class="col-md-2">
+							<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-							<div class="col-md-2">
+							<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
