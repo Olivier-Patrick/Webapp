@@ -232,15 +232,15 @@
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2">
-    							<div class="top-category text-center active" style="max-width : 70px; heigth : 20px ">
+    						<div class="col-md-2" style="max-width : 70px; heigth : 20px ">
+    							<div class="top-category text-center active">
     								<h3><a href="#">Education &amp; Training</a></h3>
     								<span class="icon flaticon-mortarboard"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2">
-    							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
+    						<div class="col-md-2" style="max-width : 70px; heigth : 20px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Graphic &amp; UI/UX Design</a></h3>
     								<span class="icon flaticon-idea"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
