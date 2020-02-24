@@ -233,58 +233,58 @@
     							</div>
     						</div>
     						<div class="col-md-1" >
-    							<div class="top-category text-center active" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center active" >
     								<h3><a href="#">Education &amp; Training</a></h3>
-    								<span class="icon flaticon-mortarboard"></span>
+    								<span class="icon flaticon-mortarboard" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
     						<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Graphic &amp; UI/UX Design</a></h3>
-    								<span class="icon flaticon-idea"></span>
+    								<span class="icon flaticon-idea" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
     						<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Accounting &amp; Finance</a></h3>
-    								<span class="icon flaticon-accounting"></span>
+    								<span class="icon flaticon-accounting" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
     						<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Restaurant &amp; Food</a></h3>
-    								<span class="icon flaticon-dish"></span>
+    								<span class="icon flaticon-dish" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
     						<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
-    								<span class="icon flaticon-stethoscope"></span>
+    								<span class="icon flaticon-stethoscope" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
 							<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
-    								<span class="icon flaticon-stethoscope"></span>
+    								<span class="icon flaticon-stethoscope" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
 							<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
-    								<span class="icon flaticon-stethoscope"></span>
+    								<span class="icon flaticon-stethoscope" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
 							<div class="col-md-1">
-    							<div class="top-category text-center" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
-    								<span class="icon flaticon-stethoscope"></span>
+    								<span class="icon flaticon-stethoscope" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
