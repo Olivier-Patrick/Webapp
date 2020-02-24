@@ -225,15 +225,15 @@
     			<div class="col-md-12">
     				<div class="category-wrap">
     					<div class="row no-gutters">
-    						<div class="col-md-2" style="max-width : 70px; heigth : 20px ">
-    							<div class="top-category text-center no-border-left" >
+    						<div class="col-md-1" >
+    							<div class="top-category text-center no-border-left" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Website &amp; Software</a></h3>
     								<span class="icon flaticon-contact"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-2" style="max-width : 70px; heigth : 20px ">
-    							<div class="top-category text-center active">
+    						<div class="col-md-1" >
+    							<div class="top-category text-center active" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Education &amp; Training</a></h3>
     								<span class="icon flaticon-mortarboard"></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
