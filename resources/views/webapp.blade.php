@@ -246,7 +246,7 @@
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
-    						<div class="col-md-4">
+    						<div class="col-md-1">
     							<div class="top-category text-center" style="max-width : 70px; heigth : 20px ">
     								<h3><a href="#">Accounting &amp; Finance</a></h3>
     								<span class="icon flaticon-accounting"></span>
