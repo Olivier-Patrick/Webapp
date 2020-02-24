@@ -222,7 +222,7 @@
     <section class="ftco-section ftco-no-pt ftco-no-pb">
     	<div class="container">
     		<div class="row">
-    			<div class="col-md-12">
+    			<div class="col-md-18">
     				<div class="category-wrap">
     					<div class="row no-gutters">
     						<div class="col-md-2" >
