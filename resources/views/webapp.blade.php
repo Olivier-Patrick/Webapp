@@ -226,9 +226,9 @@
     				<div class="category-wrap">
     					<div class="row no-gutters">
     						<div class="col-md-1" >
-    							<div class="top-category text-center no-border-left" style="width : 50px; heigth : 50px ">
+    							<div class="top-category text-center no-border-left" >
     								<h3><a href="#">Website &amp; Software</a></h3>
-    								<span class="icon flaticon-contact"></span>
+    								<span class="icon flaticon-contact" style="width : 50px; heigth : 50px "></span>
     								<p><span class="number">143</span> <span>Open position</span></p>
     							</div>
     						</div>
