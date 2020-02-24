@@ -41,7 +41,7 @@
 	          <li class="nav-item"><a href="browsejobs.html" class="nav-link">Browse Jobs</a></li>
 	          <li class="nav-item"><a href="candidates.html" class="nav-link">Canditates</a></li>
 	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Aide/Faq</a></li>
 	          <li class="nav-item cta mr-md-1"><a href="new-post.html" class="nav-link">Publier une annonce</a></li>
 	          <li class="nav-item cta cta-colored"><a href="job-post.html" class="nav-link">Se connecter / créer un compte</a></li>
 
