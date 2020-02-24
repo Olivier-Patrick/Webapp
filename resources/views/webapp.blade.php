@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Skillhunt - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Yalafa - Toute votre annonce gratuite</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -40,7 +40,7 @@
 	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="browsejobs.html" class="nav-link">Browse Jobs</a></li>
 	          <li class="nav-item"><a href="candidates.html" class="nav-link">Canditates</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">Pays</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Aide/Faq</a></li>
 	          <li class="nav-item cta mr-md-1"><a href="new-post.html" class="nav-link">Publier une annonce</a></li>
 	          <li class="nav-item cta cta-colored"><a href="job-post.html" class="nav-link">Se connecter / créer un compte</a></li>
@@ -261,6 +261,27 @@
     							</div>
     						</div>
     						<div class="col-md-2">
+    							<div class="top-category text-center">
+    								<h3><a href="#">Health &amp; Hospital</a></h3>
+    								<span class="icon flaticon-stethoscope"></span>
+    								<p><span class="number">143</span> <span>Open position</span></p>
+    							</div>
+    						</div>
+							<div class="col-md-2">
+    							<div class="top-category text-center">
+    								<h3><a href="#">Health &amp; Hospital</a></h3>
+    								<span class="icon flaticon-stethoscope"></span>
+    								<p><span class="number">143</span> <span>Open position</span></p>
+    							</div>
+    						</div>
+							<div class="col-md-2">
+    							<div class="top-category text-center">
+    								<h3><a href="#">Health &amp; Hospital</a></h3>
+    								<span class="icon flaticon-stethoscope"></span>
+    								<p><span class="number">143</span> <span>Open position</span></p>
+    							</div>
+    						</div>
+							<div class="col-md-2">
     							<div class="top-category text-center">
     								<h3><a href="#">Health &amp; Hospital</a></h3>
     								<span class="icon flaticon-stethoscope"></span>
