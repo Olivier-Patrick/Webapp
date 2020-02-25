@@ -80,11 +80,13 @@
 										<a href="#">Publier une annonce</a>
                                     </div>
 								</div>
-								<div class="Appointment">
+							</div>
+							<div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                                <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-										<a href="#" class="genric-btn danger">Se connecter / Créer un compte</a>
+										<a href="#">Publier une annonce</a>
                                     </div>
-                                </div>
+								</div>
 							</div>
 							
                             <div class="col-12">
