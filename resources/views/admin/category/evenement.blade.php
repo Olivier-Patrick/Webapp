@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4">
                     <div class="filter_wrap">
-                        <h3 class="exp_title">Advanced Filter</h3>
+                        <h3 class="exp_title">Filtrage avancé</h3>
                         <div class="filter_main_wrap">
                                 <div class="filter_inner">
                                         <form action="#">
@@ -97,7 +97,7 @@
                                         </form>
                                     </div>
                                     <div class="last_range">
-                                            <label for="amount">Prix:</label>
+                                            <label for="amount">Price range:</label>
             
                                                 
                                                 <div id="slider-range"></div>

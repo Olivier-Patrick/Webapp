@@ -96,7 +96,7 @@
                                         </form>
                                     </div>
                                     <div class="last_range">
-                                            <label for="amount">Prix:</label>
+                                            <label for="amount">Price range:</label>
             
                                                 
                                                 <div id="slider-range"></div>

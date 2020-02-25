@@ -96,7 +96,7 @@
                                         </form>
                                     </div>
                                     <div class="last_range">
-                                            <label for="amount">Prix:</label>
+                                            <label for="amount">Price range:</label>
             
                                                 
                                                 <div id="slider-range"></div>
@@ -104,7 +104,7 @@
                                                     
                                                         <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
                                                     </p>
-                                                    <button class="boxed-btn2" >Parèmetres</button>
+                                                    <button class="boxed-btn2" >Paramètres</button>
                                     </div>
                         </div>
                     </div>
