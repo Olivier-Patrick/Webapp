@@ -78,7 +78,6 @@
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
 										<a href="#">Publier une annonce</a>
-										<a href="#" class="genric-btn danger">Se connecter / Créer un compte</a>
                                     </div>
 								</div>
 								<div class="Appointment">
