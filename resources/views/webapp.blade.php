@@ -216,7 +216,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Services</h4></a>
+                                <a href="Listings.html"><h4>Évènements</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -269,32 +269,6 @@
                         <div class="hover_overlay">
                             <div class="hover_inner">
                                     <a href="Listings.html"><h4>Immobilier</h4></a>
-                                <span>05 Listings</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-4 col-lg-3">
-                    <div class="single_catagory">
-                        <div class="thumb">
-                            <img src="{{ asset('assets1/img/catagory/7.png')}}" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Évènements</h4></a>
-                                <span>05 Listings</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-4 col-lg-3">
-                    <div class="single_catagory">
-                        <div class="thumb">
-                            <img src="{{ asset('assets1/img/catagory/8.png')}}" alt="">
-                        </div>
-                        <div class="hover_overlay">
-                            <div class="hover_inner">
-                                    <a href="Listings.html"><h4>E-commerce</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
