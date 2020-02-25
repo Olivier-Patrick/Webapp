@@ -63,7 +63,7 @@
                                                         <li><a href="single_listings.html">Single listing</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="about.html">about</a></li>
+                                                <li><a href="about.html">FAQ's</a></li>
                                                 <li><a href="#">blog <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">blog</a></li>
