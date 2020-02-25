@@ -128,23 +128,23 @@
                             <div class="quality">
                                 <ul>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Achats & Ventes</a>
+                                        <a href="{{route('category.index3')}}" class="genric-btn danger circle">Achats & Ventes</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Communautés</a>
+                                        <a href="{{route('category.index1')}}" class="genric-btn danger circle">Communautés</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Cours</a>
+                                        <a href="{{route('category.index2')}}" class="genric-btn danger circle">Cours</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Rencontres</a>
+                                        <a href="{{route('category.index4')}}" class="genric-btn danger circle">Rencontres</a>
                                     </li>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Immobilier</a>
+                                        <a href="{{route('category.index6')}}" class="genric-btn danger circle">Immobilier</a>
                                     </li>
                                 
                                     <li>
-                                        <a href="#" class="genric-btn danger circle">Véhicules</a>
+                                        <a href="{{route('category.index7')}}" class="genric-btn danger circle">Emploi</a>
                                     </li>
                                     
                                 </ul>
@@ -177,7 +177,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Achats & Ventes</h4></a>
+                                <a href="{{route('category.index3')}}"><h4>Achats & Ventes</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Cours</h4></a>
+                                <a href="{{route('category.index2')}}"><h4>Cours</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -203,7 +203,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Communautés</h4></a>
+                                <a href="{{route('category.index1')}}" ><h4>Communautés</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -216,7 +216,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Évènements</h4></a>
+                                <a href="{{route('category.index9')}}"><h4>Évènements</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -229,7 +229,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Rencontres</h4></a>
+                                    <a href="{{route('category.index4')}}" ><h4>Rencontres</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -242,7 +242,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Véhicules</h4></a>
+                                    <a href="{{route('category.index8')}}"><h4>Véhicules</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Emploi</h4></a>
+                                    <a href="{{route('category.index7')}}"><h4>Emploi</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -268,7 +268,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Immobilier</h4></a>
+                                    <a href="{{route('category.index6')}}"><h4>Immobilier</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
