@@ -173,7 +173,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Amazing Places</h4></a>
+                                <a href="Listings.html"><h4>Achats & Ventes</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Amazing Places</h4></a>
+                                <a href="Listings.html"><h4>Cours</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -199,7 +199,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Amazing Places</h4></a>
+                                <a href="Listings.html"><h4>Communautés</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -212,7 +212,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                <a href="Listings.html"><h4>Concerts</h4></a>
+                                <a href="Listings.html"><h4>Services</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Travel guide</h4></a>
+                                    <a href="Listings.html"><h4>Rencontres</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -238,7 +238,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Music Festival</h4></a>
+                                    <a href="Listings.html"><h4>Véhicules</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Night Club</h4></a>
+                                    <a href="Listings.html"><h4>Emploi</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -264,7 +264,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Bars & Pubs</h4></a>
+                                    <a href="Listings.html"><h4>Immobilier</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -277,7 +277,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Cafe</h4></a>
+                                    <a href="Listings.html"><h4>Évènements</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
@@ -290,7 +290,7 @@
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
-                                    <a href="Listings.html"><h4>Restaurants</h4></a>
+                                    <a href="Listings.html"><h4>E-commerce</h4></a>
                                 <span>05 Listings</span>
                             </div>
                         </div>
