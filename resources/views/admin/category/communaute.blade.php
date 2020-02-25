@@ -102,7 +102,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-10">
                         <div class="slider_text text-center justify-content-center">
-                            <h3>Our Listings</h3>
+                            <h3>Communautés</h3>
                             <div class="search_form">
                                 <form action="#">
                                     <div class="row align-items-center">
@@ -118,7 +118,7 @@
                                         </div>
                                         <div class="col-xl-3 col-md-4">
                                             <div class="button_search">
-                                                <button class="boxed-btn2" type="submit">Search</button>
+                                                <button class="boxed-btn2" type="submit">Rechercher</button>
                                             </div>
                                         </div>
                                     </div>
@@ -144,11 +144,11 @@
                                         <form action="#">
                                             <div class="input_field">
                                                     <input type="text" placeholder="What are you finding?" >
-                                                    <button class="submit_btn" type="submit"> <i class="fa fa-search"></i> </button>
+                                                    <button class="submit_btn" type="submit"> <i class="fas fa-search"></i> </button>
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Choose categories">cat 1</option>
+                                                            <option data-display="Choisissez votre communauté">cat 1</option>
                                                             <option value="1">cat 2</option>
                                                             <option value="2">cat 3</option>
                                                             <option value="3">cat 4</option>
@@ -156,9 +156,9 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Location">USA</option>
-                                                            <option value="1">Africa</option>
-                                                            <option value="2">canada</option>
+                                                            <option data-display="Location">Maroc</option>
+                                                            <option value="1">Cote d'ivoire</option>
+                                                            <option value="2">France</option>
                                                           </select>
                                             </div>
                                             <div class="input_field ">
@@ -191,7 +191,7 @@
                                         </form>
                                     </div>
                                     <div class="last_range">
-                                            <label for="amount">Price range:</label>
+                                            <label for="amount">Prix:</label>
             
                                                 
                                                 <div id="slider-range"></div>
@@ -220,9 +220,9 @@
                                                 <h3><a href="single_listings.html">Saintmartine</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -241,9 +241,9 @@
                                                 <h3><a href="single_listings.html">Freshly Food</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -262,9 +262,9 @@
                                                 <h3><a href="single_listings.html">Midnight</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -283,9 +283,9 @@
                                                 <h3><a href="single_listings.html">Barber</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -304,9 +304,9 @@
                                                 <h3><a href="single_listings.html">Montana Resort</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -325,9 +325,9 @@
                                                 <h3><a href="single_listings.html">Yelled Shopping</a></h3>
                                                 <p>700/D, Kings road, Green lane, London</p>
                                                 <ul>
-                                                    <li> <i class="fa fa-phone"></i>
+                                                    <li> <i class="fas fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
+                                                    <li><i class="fas fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -348,7 +348,7 @@
                                         <a href="#">03</a>
                                     </li>
                                     <li>
-                                        <a href="#"> <i class="ti-angle-right"></i> </a>
+                                        <a href="#"> <i class="fas fa-ti-angle-right"></i> </a>
                                     </li>
                                 </ul>
                             </div>
@@ -382,22 +382,22 @@
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <i class="fas fa-ti-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-google-plus"></i>
+                                            <i class="fas fa-google-plus"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-twitter"></i>
+                                            <i class="fas fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-instagram"></i>
+                                            <i class="fas fa-instagram"></i>
                                         </a>
                                     </li>
                                 </ul>
