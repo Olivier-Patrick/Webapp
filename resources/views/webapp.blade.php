@@ -128,22 +128,28 @@
                             <div class="quality">
                                 <ul>
                                     <li>
-                                        <button>Hotel</button>
+                                        <button>Achats & Ventes</button>
                                     </li>
                                     <li>
-                                        <button>Food</button>
+                                        <button>Communautés</button>
                                     </li>
                                     <li>
-                                        <button>Shopping</button>
+                                        <button>Cours</button>
                                     </li>
                                     <li>
-                                        <button>Bar & Pubs</button>
+                                        <button>Rencontres</button>
                                     </li>
                                     <li>
-                                        <button>Bar & Pubs</button>
+                                        <button>Immobilier</button>
                                     </li>
                                     <li>
-                                        <button>Places</button>
+                                        <button>Services</button>
+                                    </li>
+                                    <li>
+                                        <button>Véhicules</button>
+                                    </li>
+                                    <li>
+                                        <button>E-Commerce</button>
                                     </li>
                                 </ul>
                             </div>
