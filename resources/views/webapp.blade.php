@@ -69,7 +69,8 @@
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Aide/Faq</a></li>
+											<li><a href="contact.html">Aide/Faq</a></li>
+											<a href="#" class="genric-btn danger">Se connecter / Créer un compte</a>
                                         </ul>
                                     </nav>
                                 </div>
@@ -81,13 +82,7 @@
                                     </div>
                                 </div>
 							</div>
-							<div class="col-xl-3 col-lg-3 d-none d-lg-block">
-                                <div class="Appointment">
-                                    <div class="book_btn d-none d-lg-block">
-                                        <a href="#">Se connecter / Créer un compte</a>
-                                    </div>
-                                </div>
-                            </div>
+							
                             <div class="col-12">
                                 <div class="mobile_menu d-block d-lg-none"></div>
                             </div>
