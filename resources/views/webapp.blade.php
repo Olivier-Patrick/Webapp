@@ -50,7 +50,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-7">
-                                <div class="main-menu  d-none d-lg-block">
+                                <div class="main-menu  d-lg-block">
                                     <nav>
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
