@@ -69,7 +69,7 @@
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
 											</li>
-											<li><a href="index.html">je me connecte</a></li>
+											<li><a href="index.html" class="genric-btn danger-boder radius">je me connecte</a></li>
 											<li><a href="index.html">je m'inscris</a></li>
 											
                                         </ul>
