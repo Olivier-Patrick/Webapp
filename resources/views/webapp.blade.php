@@ -128,25 +128,25 @@
                             <div class="quality">
                                 <ul>
                                     <li>
-                                        <button>Achats & Ventes</button>
+                                        <a href="#" class="genric-btn danger circle">Achats & Ventes</a>
                                     </li>
                                     <li>
-                                        <button>Communautés</button>
+                                        <a href="#" class="genric-btn danger circle">Communautés</a>
                                     </li>
                                     <li>
-                                        <button>Cours</button>
+                                        <a href="#" class="genric-btn danger circle">Cours</a>
                                     </li>
                                     <li>
-                                        <button>Rencontres</button>
+                                        <a href="#" class="genric-btn danger circle">Rencontres</a>
                                     </li>
                                     <li>
-                                        <button>Immobilier</button>
+                                        <a href="#" class="genric-btn danger circle">Immobilier</a>
                                     </li>
                                     <li>
-                                        <button>Services</button>
+                                        <a href="#" class="genric-btn danger circle">Services</a>
                                     </li>
                                     <li>
-                                        <button>Véhicules</button>
+                                        <a href="#" class="genric-btn danger circle">Véhicules</a>
                                     </li>
                                     
                                 </ul>
