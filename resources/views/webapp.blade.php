@@ -148,9 +148,7 @@
                                     <li>
                                         <button>Véhicules</button>
                                     </li>
-                                    <li>
-                                        <button>E-Commerce</button>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
