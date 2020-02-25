@@ -74,13 +74,12 @@
                                     </nav>
                                 </div>
                             </div>
-                            <div class="col-xl-3 col-lg-3 d-none d-lg-block">
-                                <div class="Appointment">
-                                    <div class="book_btn d-none d-lg-block">
-										<a href="#">Publier une annonce</a>
-                                    </div>
-								</div>
-							</div>
+							<div class="button-group-area mt-10">
+				               <a href="#" class="genric-btn success-border radius">Success</a>
+				               <a href="#" class="genric-btn info-border radius">Info</a>
+				               <a href="#" class="genric-btn warning-border radius">Warning</a>
+				               <a href="#" class="genric-btn danger-border radius">Danger</a>
+			                </div>
                             <div class="col-12">
                                 <div class="mobile_menu d-block d-lg-none"></div>
                             </div>
