@@ -128,7 +128,7 @@
                             <div class="quality">
                                 <ul>
                                     <li>
-                                        <a>Achats & Ventes</a>
+                                        <button>Achats & Ventes</button>
                                     </li>
                                     <li>
                                         <button>Communautés</button>
