@@ -69,8 +69,8 @@
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
 											</li>
-											<li><a href="index.html" class="genric-btn danger-boder radius">je me connecte</a></li>
-											<li><a href="index.html" class="genric-btn danger-boder radius">je m'inscris</a></li>
+											<li><a href="/login" class="genric-btn danger-boder radius">je me connecte</a></li>
+											<li><a href="/login" class="genric-btn danger-boder radius">je m'inscris</a></li>
 											
                                         </ul>
                                     </nav>
@@ -79,7 +79,7 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-										<a href="#">Publier une annonce</a>
+										<a href="{{route('post.create_post')}}">Publier une annonce</a>
                                     </div>
 								</div>
 							</div>
