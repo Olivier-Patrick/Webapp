@@ -103,8 +103,8 @@
                                                 <p>
                                                     
                                                         <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
-                                                </p>
-                                                <button class="boxed-btn2" >Paramètre</button>
+                                                    </p>
+                                                    <button class="boxed-btn2" >Paramètre</button>
                                     </div>
                         </div>
                     </div>
