@@ -56,21 +56,22 @@
                                             <ul id="navigation">
                                                 <li><a href="index.html">home</a></li>
                                                 <li><a href="Listings.html">Listings</a></li>
-                                                <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                                <li><a href="#">Pays <i class="fa-ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         
-                                                        <li><a href="elements.html">elements</a></li>
-                                                        <li><a href="single_listings.html">Single listing</a></li>
+                                                        <li><a href="elements.html">Maroc</a></li>
+                                                        <li><a href="single_listings.html">Cote d'ivoire</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="about.html">about</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                                <li><a href="about.html">Aide/Faq</a></li>
+                                                <li><a href="#">E-commerce<i class="fa-ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">blog</a></li>
                                                         <li><a href="single-blog.html">single-blog</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+												<li><a href="contact.html" class="genric-btn danger-boder radius">Je me connecte</a></li>
+												<li><a href="contact.html" class="genric-btn danger-boder radius">Je m'inscris</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -78,7 +79,7 @@
                                 <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                     <div class="Appointment">
                                         <div class="book_btn d-none d-lg-block">
-                                            <a href="#">Sign In</a>
+                                            <a href="#">Publier une annonce</a>
                                         </div>
                                     </div>
                                 </div>
@@ -117,7 +118,7 @@
                                         </div>
                                         <div class="col-xl-3 col-md-4">
                                             <div class="button_search">
-                                                <button class="boxed-btn2" type="submit">Search</button>
+                                                <button class="boxed-btn2" type="submit">Rechercher</button>
                                             </div>
                                         </div>
                                     </div>
@@ -137,7 +138,7 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4">
                     <div class="filter_wrap">
-                        <h3 class="exp_title">Advanced Filter</h3>
+                        <h3 class="exp_title">Filtrage avancé</h3>
                         <div class="filter_main_wrap">
                                 <div class="filter_inner">
                                         <form action="#">
@@ -147,7 +148,7 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Choose categories">cat 1</option>
+                                                            <option data-display="Immobilier">cat 1</option>
                                                             <option value="1">cat 2</option>
                                                             <option value="2">cat 3</option>
                                                             <option value="3">cat 4</option>
@@ -155,9 +156,9 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Location">USA</option>
-                                                            <option value="1">Africa</option>
-                                                            <option value="2">canada</option>
+                                                            <option data-display="Location">Maroc</option>
+                                                            <option value="1">Cote d'ivoire</option>
+                                                            <option value="2">France</option>
                                                           </select>
                                             </div>
                                             <div class="input_field ">
@@ -174,14 +175,14 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Area (km)">Area (km)</option>
+                                                            <option data-display="Area (km)">Distance (km)</option>
                                                             <option value="1">1km</option>
                                                             <option value="2">2km</option>
                                                           </select>
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Area (km)">Area (km)</option>
+                                                            <option data-display="Area (km)">Distance (km)</option>
                                                             <option value="1">1km</option>
                                                             <option value="2">2km</option>
                                                           </select>
@@ -190,7 +191,7 @@
                                         </form>
                                     </div>
                                     <div class="last_range">
-                                            <label for="amount">Price range:</label>
+                                            <label for="amount">Prix:</label>
             
                                                 
                                                 <div id="slider-range"></div>
@@ -198,7 +199,7 @@
                                                     
                                                         <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
                                                     </p>
-                                                    <button class="boxed-btn2" >Reset</button>
+                                                    <button class="boxed-btn2" >Parèmetres</button>
                                     </div>
                         </div>
                     </div>

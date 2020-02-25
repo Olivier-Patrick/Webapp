@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Directory</title>
+    <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -63,7 +63,7 @@
                                                         <li><a href="single_listings.html">Cote d'ivoire</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="about.html">about</a></li>
+                                                <li><a href="about.html">Aide/Faq</a></li>
                                                 <li><a href="#">E-commerce<i class="fa-ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">blog</a></li>
