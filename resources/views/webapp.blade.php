@@ -55,11 +55,11 @@
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
                                             <li><a href="Listings.html">Listings</a></li>
-                                            <li><a href="#">Pays<i class="ti-angle-down"></i></a>
+                                            <li><a href="#">Pays<i class="fas fa-ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     
-                                                    <li><a href="elements.html">elements</a></li>
-                                                    <li><a href="single_listings.html">Single listing</a></li>
+                                                    <li><a href="elements.html">Maroc</a></li>
+                                                    <li><a href="single_listings.html">Cote d'ivoire</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="about.html">about</a></li>
