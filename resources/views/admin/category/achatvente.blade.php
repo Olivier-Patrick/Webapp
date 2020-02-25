@@ -56,7 +56,7 @@
                                             <ul id="navigation">
                                                 <li><a href="index.html">home</a></li>
                                                 <li><a href="Listings.html">Listings</a></li>
-                                                <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                                <li><a href="#">pages <i class="fa-ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         
                                                         <li><a href="elements.html">elements</a></li>
@@ -64,7 +64,7 @@
                                                     </ul>
                                                 </li>
                                                 <li><a href="about.html">about</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                                <li><a href="#">blog <i class="fa-ti-angle-down"></i></a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">blog</a></li>
                                                         <li><a href="single-blog.html">single-blog</a></li>
@@ -117,7 +117,7 @@
                                         </div>
                                         <div class="col-xl-3 col-md-4">
                                             <div class="button_search">
-                                                <button class="boxed-btn2" type="submit">Search</button>
+                                                <button class="boxed-btn2" type="submit">Rechercher</button>
                                             </div>
                                         </div>
                                     </div>
@@ -137,7 +137,7 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4">
                     <div class="filter_wrap">
-                        <h3 class="exp_title">Advanced Filter</h3>
+                        <h3 class="exp_title">Filtrage avancé</h3>
                         <div class="filter_main_wrap">
                                 <div class="filter_inner">
                                         <form action="#">
@@ -155,9 +155,9 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Location">USA</option>
-                                                            <option value="1">Africa</option>
-                                                            <option value="2">canada</option>
+                                                            <option data-display="Location">Maroc</option>
+                                                            <option value="1">Cote d'ivoire</option>
+                                                            <option value="2">France</option>
                                                           </select>
                                             </div>
                                             <div class="input_field ">
