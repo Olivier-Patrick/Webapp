@@ -128,7 +128,7 @@
                             <div class="quality">
                                 <ul>
                                     <li>
-                                        <a href="#" class="genric-btn danger circle" style="width: 0px; heigth: 20px">Achats & Ventes</a>
+                                        <a href="#" class="genric-btn danger circle">Achats & Ventes</a>
                                     </li>
                                     <li>
                                         <a href="#" class="genric-btn danger circle">Communautés</a>
