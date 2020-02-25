@@ -63,7 +63,7 @@
                                                 </ul>
                                             </li>
                                             <li><a href="about.html">about</a></li>
-                                            <li><a href="#">E-commerce<i class="ti-angle-down"></i></a>
+                                            <li><a href="#">E-commerce<i class="fas fa-ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">blog</a></li>
                                                     <li><a href="single-blog.html">single-blog</a></li>
@@ -117,7 +117,7 @@
                                         </div>
                                         <div class="col-xl-3 col-md-4">
                                             <div class="button_search">
-                                                <button class="boxed-btn2" type="submit">Search</button>
+                                                <button class="boxed-btn2" type="submit">Recherche</button>
                                             </div>
                                         </div>
                                     </div>
@@ -158,9 +158,9 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title mb-60 text-center">
-                        <p>Discover</p>
+                        <p>Découvrez</p>
                         <h3>
-                            Most Popular Categories
+                            Plus de Catégories
                         </h3>
                     </div>
                 </div>
