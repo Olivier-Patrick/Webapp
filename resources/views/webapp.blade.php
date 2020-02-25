@@ -55,7 +55,7 @@
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
                                             <li><a href="Listings.html">Listings</a></li>
-                                            <li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                            <li><a href="#">Pays<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     
                                                     <li><a href="elements.html">elements</a></li>
@@ -63,13 +63,13 @@
                                                 </ul>
                                             </li>
                                             <li><a href="about.html">about</a></li>
-                                            <li><a href="#">blog <i class="ti-angle-down"></i></a>
+                                            <li><a href="#">E-commerce<i class="ti-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">blog</a></li>
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.html">Aide/Faq</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -77,7 +77,14 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a href="#">Sign In</a>
+                                        <a href="#">Publier une annonce</a>
+                                    </div>
+                                </div>
+							</div>
+							<div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                                <div class="Appointment">
+                                    <div class="book_btn d-none d-lg-block">
+                                        <a href="#">Se connecter / Créer un compte</a>
                                     </div>
                                 </div>
                             </div>
@@ -167,6 +174,32 @@
             </div>
             <div class="row">
                 <div class="col-xl-3 col-md-4 col-lg-3">
+                    <div class="single_catagory">
+                        <div class="thumb">
+                            <img src="{{ asset('assets1/img/catagory/1.png')}}" alt="">
+                        </div>
+                        <div class="hover_overlay">
+                            <div class="hover_inner">
+                                <a href="Listings.html"><h4>Amazing Places</h4></a>
+                                <span>05 Listings</span>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+				<div class="col-xl-3 col-md-4 col-lg-3">
+                    <div class="single_catagory">
+                        <div class="thumb">
+                            <img src="{{ asset('assets1/img/catagory/1.png')}}" alt="">
+                        </div>
+                        <div class="hover_overlay">
+                            <div class="hover_inner">
+                                <a href="Listings.html"><h4>Amazing Places</h4></a>
+                                <span>05 Listings</span>
+                            </div>
+                        </div>
+                    </div>
+				</div>
+				<div class="col-xl-3 col-md-4 col-lg-3">
                     <div class="single_catagory">
                         <div class="thumb">
                             <img src="{{ asset('assets1/img/catagory/1.png')}}" alt="">
