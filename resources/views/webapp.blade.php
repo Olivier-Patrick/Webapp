@@ -166,7 +166,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-3 col-md-4 col-lg-3">
+                <div class="col-xl-3 col-md-3 col-lg-3">
                     <div class="single_catagory">
                         <div class="thumb">
                             <img src="{{ asset('assets1/img/catagory/1.png')}}" alt="">
