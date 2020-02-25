@@ -69,7 +69,7 @@
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
                                             </li>
-											<li><a href="#" class="genric-btn danger">Se connecter / Créer un compte</a></li>
+											
                                         </ul>
                                     </nav>
                                 </div>
@@ -77,7 +77,8 @@
                             <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                                 <div class="Appointment">
                                     <div class="book_btn d-none d-lg-block">
-                                        <a href="#">Publier une annonce</a>
+										<a href="#">Publier une annonce</a>
+										<a href="#" class="genric-btn danger">Se connecter / Créer un compte</a>
                                     </div>
                                 </div>
 							</div>
