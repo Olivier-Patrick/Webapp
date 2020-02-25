@@ -102,8 +102,8 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-10">
                         <div class="slider_text text-center justify-content-center">
-                            <p>Find Nearby Attraction</p>
-                            <h3>Find Nearby Attraction</h3>
+                            <p>Trouver vos articles</p>
+                            <h3>Publier votre annonce </h3>
                             <div class="search_form">
                                 <form action="#">
                                     <div class="row align-items-center">
