@@ -69,8 +69,7 @@
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
                                             </li>
-											<li><a href="contact.html">Aide/Faq</a></li>
-											<a href="#" class="genric-btn danger">Se connecter / Créer un compte</a>
+											<li><a href="#" class="genric-btn danger">Se connecter / Créer un compte</a></li>
                                         </ul>
                                     </nav>
                                 </div>
