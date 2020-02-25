@@ -45,7 +45,7 @@
                             <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
                                     <a href="index.html">
-                                        <img src="img/logo.png" alt="">
+                                        <img src="{{ asset('assets1/img/logo.png')}}" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@
                 <div class="col-xl-3 col-md-4 col-lg-3">
                     <div class="single_catagory">
                         <div class="thumb">
-                            <img src="img/catagory/1.png" alt="">
+                            <img src="{{ asset('assets1/img/catagory/1.png')}}" alt="">
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
@@ -182,7 +182,7 @@
                 <div class="col-xl-3 col-md-4 col-lg-3">
                     <div class="single_catagory">
                         <div class="thumb">
-                            <img src="img/catagory/2.png" alt="">
+                            <img src="{{ asset('assets1/img/catagory/2.png')}}" alt="">
                         </div>
                         <div class="hover_overlay">
                             <div class="hover_inner">
