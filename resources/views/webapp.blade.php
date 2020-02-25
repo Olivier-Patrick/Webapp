@@ -70,7 +70,7 @@
                                                 </ul>
 											</li>
 											<li><a href="index.html">je me connecte</a></li>
-											<li><a href="index.html">je crée mon compte</a></li>
+											<li><a href="index.html">je m'inscris</a></li>
 											
                                         </ul>
                                     </nav>
