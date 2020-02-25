@@ -142,9 +142,7 @@
                                     <li>
                                         <a href="#" class="genric-btn danger circle">Immobilier</a>
                                     </li>
-                                    <li>
-                                        <a href="#" class="genric-btn danger circle">Services</a>
-                                    </li>
+                                
                                     <li>
                                         <a href="#" class="genric-btn danger circle">Véhicules</a>
                                     </li>
