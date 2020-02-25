@@ -70,8 +70,8 @@
                                                         <li><a href="single-blog.html">single-blog</a></li>
                                                     </ul>
                                                 </li>
-												<li><a href="contact.html">Je me connecte</a></li>
-												<li><a href="contact.html">Je m'inscris</a></li>
+												<li><a href="contact.html" class="genric-btn danger-boder radius">Je me connecte</a></li>
+												<li><a href="contact.html" class="genric-btn danger-boder radius">Je m'inscris</a></li>
                                             </ul>
                                         </nav>
                                     </div>
