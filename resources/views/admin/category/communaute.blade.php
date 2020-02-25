@@ -80,14 +80,14 @@
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Area (km)">Area (km)</option>
+                                                            <option data-display="Area (km)">Distances (km)</option>
                                                             <option value="1">1km</option>
                                                             <option value="2">2km</option>
                                                           </select>
                                             </div>
                                             <div class="input_field">
                                                     <select class="wide">
-                                                            <option data-display="Area (km)">Area (km)</option>
+                                                            <option data-display="Area (km)">Distances (km)</option>
                                                             <option value="1">1km</option>
                                                             <option value="2">2km</option>
                                                           </select>
@@ -104,7 +104,7 @@
                                                     
                                                         <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
                                                     </p>
-                                                    <button class="boxed-btn2" >Reset</button>
+                                                    <button class="boxed-btn2" >Paramètres</button>
                                     </div>
                         </div>
                     </div>

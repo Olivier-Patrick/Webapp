@@ -8,7 +8,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-10">
                         <div class="slider_text text-center justify-content-center">
-                            <h3>Our Listings</h3>
+                            <h3>Évènements</h3>
                             <div class="search_form">
                                 <form action="#">
                                     <div class="row align-items-center">
