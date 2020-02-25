@@ -102,9 +102,9 @@
                                                 <div id="slider-range"></div>
                                                 <p>
                                                     
-                                                        <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
-                                                    </p>
-                                                    <button class="boxed-btn2" >Paramètres</button>
+                                                    <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+                                                </p>
+                                                <button class="boxed-btn2" >Paramètres</button>
                                     </div>
                         </div>
                     </div>
