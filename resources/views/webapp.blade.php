@@ -68,18 +68,19 @@
                                                     <li><a href="blog.html">blog</a></li>
                                                     <li><a href="single-blog.html">single-blog</a></li>
                                                 </ul>
-                                            </li>
+											</li>
+											<div class="button-group-area mt-10">
+				                                 <a href="#" class="genric-btn success-border radius">Success</a>
+				                                 <a href="#" class="genric-btn info-border radius">Info</a>
+				                                 <a href="#" class="genric-btn warning-border radius">Warning</a>
+				                                 <a href="#" class="genric-btn danger-border radius">Danger</a>
+			                                </div>
 											
                                         </ul>
                                     </nav>
                                 </div>
                             </div>
-							<div class="button-group-area mt-10">
-				               <a href="#" class="genric-btn success-border radius">Success</a>
-				               <a href="#" class="genric-btn info-border radius">Info</a>
-				               <a href="#" class="genric-btn warning-border radius">Warning</a>
-				               <a href="#" class="genric-btn danger-border radius">Danger</a>
-			                </div>
+							
                             <div class="col-12">
                                 <div class="mobile_menu d-block d-lg-none"></div>
                             </div>
