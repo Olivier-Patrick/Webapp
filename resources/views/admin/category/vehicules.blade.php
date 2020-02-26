@@ -150,7 +150,7 @@
                                                 <ul>
                                                     <li> <i class="fa fa-phone"></i>
                                                         +10 278 367 9823</li>
-                                                    <li><i class="tim-icons icon-puzzle-10"></i> contact@midnight.com</li>
+                                                    <li><i class="fa fa-envelope"></i> contact@midnight.com</li>
                                                 </ul>
                                             </div>
                                         </div>
