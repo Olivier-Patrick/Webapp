@@ -110,7 +110,7 @@
     </header>
 	
 	<div class="limiter">
-		<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
+		<div class="container-login100" style="background-image: url('assets2/images/bg-01.jpg');">
 			<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
 				<form class="login100-form validate-form" method="POST" action="{{ route('login') }}">
 				    @csrf
@@ -118,13 +118,13 @@
 						Se connecter
 					</span>
 
-					<div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-						<span class="label-input100">{{ __('E-Mail Address') }}</span>
+					<div class="wrap-input100 validate-input m-b-23" data-validate = "E-mail est require">
+						<span class="label-input100">{{ __('E-Mail') }}</span>
 						<input class="input100" type="text" name="username" placeholder="Entrer votre E-mail">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate="Password is required">
+					<div class="wrap-input100 validate-input" data-validate="Mot de passe est require">
 						<span class="label-input100">{{ __('Mot de passe') }}</span>
 						<input class="input100" type="password" name="pass" placeholder="Entrer votre mot de passe">
 						<span class="focus-input100" data-symbol="&#xf190;"></span>
