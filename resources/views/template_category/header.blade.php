@@ -34,7 +34,7 @@
                                                 </ul>
 											</li>
 											<li><a href="/login" class="genric-btn danger-boder radius">je me connecte</a></li>
-											<li><a href="/login" class="genric-btn danger-boder radius">je m'inscris</a></li>
+											<li><a href="/register" class="genric-btn danger-boder radius">je m'inscris</a></li>
 											
                                         </ul>
                                     </nav>
