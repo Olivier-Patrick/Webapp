@@ -170,7 +170,7 @@
 							Ou s'inscrire avec
 						</span>
 
-						<a href="#" class="txt2">
+						<a href="/register" class="txt2">
 							S'inscrire
 						</a>
 					</div>
@@ -218,7 +218,7 @@
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <i class="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
