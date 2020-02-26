@@ -18,7 +18,6 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
-                                            <li><a href="Listings.html">Listings</a></li>
                                             <li><a href="#">Pays<i class="fa fa-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     
