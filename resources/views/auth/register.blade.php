@@ -90,10 +90,7 @@
 							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
 							<label class="label-checkbox100" for="ckb1">
 								<span class="txt1">
-									
-									<a href="#" class="txt2 hov1">
-										J'accepte les conditions d'utilisations.
-									</a>
+									<a href="#" class="txt2 hov1">J'accepte les conditions d'utilisations.</a>
 								</span>
 							</label>
 						</div>
