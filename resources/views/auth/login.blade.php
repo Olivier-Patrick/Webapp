@@ -1,3 +1,7 @@
+
+@extends('template_category.home')
+@section('content')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,3 +125,5 @@
 
 </body>
 </html>
+
+@endsection
