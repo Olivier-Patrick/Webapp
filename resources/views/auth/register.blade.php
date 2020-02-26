@@ -152,7 +152,7 @@
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <i class="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
