@@ -131,7 +131,7 @@
 					</div>
 					
 					<div class="text-right p-t-8 p-b-31">
-						<a href="#">
+						<a href="{{ route('password.request') }}">
 							Mot de passe oublié?
 						</a>
 					</div>
