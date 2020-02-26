@@ -75,13 +75,13 @@
 
 					<div class="wrap-input100 validate-input" data-validate = "Mot de passe obligatoire">
 						<span class="label-input100">Mot de passe</span>
-						<input class="input100" type="text" name="pass" placeholder="*************">
+						<input id="password"  class="input100" type="password" name="password" placeholder="*************">
 						<span class="focus-input100"></span>
 					</div>
 
 					<div class="wrap-input100 validate-input" data-validate = "Répéter votre mot de passe">
-						<span class="label-input100">Confirmation mot de passe</span>
-						<input class="input100" type="text" name="repeat-pass" placeholder="*************">
+						<span for="password-confirm" class="label-input100">Confirmation mot de passe</span>
+						<input id="password-confirm"  class="input100" type="password" name="password_confirmation" placeholder="*************">
 						<span class="focus-input100"></span>
 					</div>
 
