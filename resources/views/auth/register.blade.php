@@ -79,7 +79,7 @@
 						<span class="focus-input100"></span>
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate = "Repeat Password is required">
+					<div class="wrap-input100 validate-input" data-validate = "Répéter votre mot de passe">
 						<span class="label-input100">Confirmation mot de passe</span>
 						<input class="input100" type="text" name="repeat-pass" placeholder="*************">
 						<span class="focus-input100"></span>
@@ -90,9 +90,9 @@
 							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
 							<label class="label-checkbox100" for="ckb1">
 								<span class="txt1">
-									J'accepte
+									
 									<a href="#" class="txt2 hov1">
-										Terms of User
+										J'accepte les conditions d'utilisations.
 									</a>
 								</span>
 							</label>
@@ -109,7 +109,7 @@
 							</button>
 						</div>
 
-						<a href="#" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
+						<a href="/login" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
 							Se connecter
 							<i class="fa fa-long-arrow-right m-l-5"></i>
 						</a>
