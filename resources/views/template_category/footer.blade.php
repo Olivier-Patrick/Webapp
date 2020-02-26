@@ -18,7 +18,7 @@
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="ti-facebook"></i>
+                                            <i class="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
@@ -131,7 +131,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="{{ asset('assets1/js/jquery.ajaxchimp.min.js')}}"></script>
     <script src="{{ asset('assets1/js/jquery.form.js')}}"></script>
     <script src="{{ asset('assets1/js/jquery.validate.min.js')}}"></script>
-    <script src="js/mail-script.js"></script>
+    <script src="{{ asset('assets1/js/mail-script.js')}}"></script>
 
 
     <script src="{{ asset('assets1/js/main.js')}}"></script>
