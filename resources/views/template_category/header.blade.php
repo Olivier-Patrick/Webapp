@@ -19,7 +19,7 @@
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
                                             <li><a href="Listings.html">Listings</a></li>
-                                            <li><a href="#">Pays<i class="fas fa-angle-down"></i></a>
+                                            <li><a href="#">Pays<i class="fa fa-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     
                                                     <li><a href="elements.html">Maroc</a></li>
@@ -27,7 +27,7 @@
                                                 </ul>
                                             </li>
                                             <li><a href="about.html">FAQ's</a></li>
-                                            <li><a href="#">E-commerce<i class="fas fa-angle-down"></i></a>
+                                            <li><a href="#">E-commerce<i class="fa fa-angle-down"></i></a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">blog</a></li>
                                                     <li><a href="single-blog.html">single-blog</a></li>
