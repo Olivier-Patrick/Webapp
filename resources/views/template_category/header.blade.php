@@ -1,7 +1,7 @@
 
     <!-- header-start -->
     <header>
-        <div class="header-area ">
+        <div class="">
             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid ">
                     <div class="header_bottom_border">
