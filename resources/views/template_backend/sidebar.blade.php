@@ -4,7 +4,7 @@
             <a href="index.html">Yalafa</a>
           </div>
           <div class="sidebar-brand sidebar-brand-sm">
-            <a href="index.html">St</a>
+            <a href="index.html"></a>
           </div>
           <ul class="sidebar-menu">
             <li class="menu-header">Tableau de bord</li>
