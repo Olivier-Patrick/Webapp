@@ -49,7 +49,7 @@
 <body>
   <div id="app">
     <div class="main-wrapper main-wrapper-1">
-      <div class="navbar color:#121697"></div>
+      <div class="navbar" style="color:#121697"></div>
       <nav class="navbar navbar-expand-lg main-navbar">
         <form class="form-inline mr-auto">
           <ul class="navbar-nav mr-3">
